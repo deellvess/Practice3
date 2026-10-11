@@ -16,6 +16,12 @@ MonoBehaviour:
   horizontalAmplitude: 0.012
   verticalAmplitude: 0.018
   rollAmplitude: 0.35
+<<<<<<< HEAD
   sprintFrequency: 9.5
   sprintAmplitudeMultiplier: 1.15
   returnSpeed: 12
+=======
+  sprintFrequency: 8
+  sprintAmplitudeMultiplier: 1.05
+  returnSpeed: 10
+>>>>>>> 04c557d (reduce sprint camera bob)
